@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/the first post in obsidian.md",
+                "file": "source/_posts/The first post in 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/the first post in obsidian.md",
+                "file": "source/_posts/The first post in 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/the first post in obsidian.md",
+                "file": "source/_posts/The first post in 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/the first post in obsidian.md"
+                "file": "source/_posts/The first post in 2024.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "65a014c926204b47",
   "lastOpenFiles": [
+    "source/_posts/the first post in obsidian.md",
+    "source/_posts/The first post in 2024.md",
     "db.json",
     "public/CNAME",
     "public/index.html",
@@ -187,9 +189,7 @@
     "public/js/plugins/memos.js",
     "public/js/plugins/linkcard.js",
     "public/js/plugins/ghinfo.js",
-    "public/js/plugins/friends.js",
     "source/_posts/hello-world.md",
-    "source/_posts/the first post in obsidian.md",
     "source/_obsidian/img.png",
     "source/_obsidian/Post Template.md",
     "source/_posts/hello-world b test.md",
