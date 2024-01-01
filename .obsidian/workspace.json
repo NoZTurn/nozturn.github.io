@@ -11,8 +11,13 @@
             "id": "2c35b6e6c38183d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/The first post in obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/The first post in obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/The first post in obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/The first post in obsidian.md"
+              }
             }
           },
           {
@@ -166,14 +175,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "63c277adff0d53da",
+  "active": "2c35b6e6c38183d3",
   "lastOpenFiles": [
     "_config.stellar.yml~",
     "source/_posts/The first post in 2024.md",
     "node_modules/fsevents",
     "_config.stellar.yml",
     "_config - 副本.yml",
-    "source/_posts/the first post in obsidian.md",
+    "source/_posts/The first post in obsidian.md",
     "db.json",
     "public/CNAME",
     "public/index.html",

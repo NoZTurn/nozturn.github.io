@@ -1,5 +1,5 @@
 ---
-title: the first post in obsidian
+title: The first post in obsidian
 date: 2023-12-31 22:09:17
 tags:
 ---
