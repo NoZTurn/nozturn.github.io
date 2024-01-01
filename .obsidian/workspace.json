@@ -177,6 +177,8 @@
   },
   "active": "65a014c926204b47",
   "lastOpenFiles": [
+    "_config.stellar.yml",
+    "_config - 副本.yml",
     "source/_posts/the first post in obsidian.md",
     "source/_posts/The first post in 2024.md",
     "db.json",
@@ -188,7 +190,6 @@
     "public/js/plugins/sites.js",
     "public/js/plugins/memos.js",
     "public/js/plugins/linkcard.js",
-    "public/js/plugins/ghinfo.js",
     "source/_posts/hello-world.md",
     "source/_obsidian/img.png",
     "source/_obsidian/Post Template.md",
