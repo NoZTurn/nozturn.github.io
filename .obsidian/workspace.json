@@ -175,8 +175,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "65a014c926204b47",
+  "active": "63c277adff0d53da",
   "lastOpenFiles": [
+    "node_modules/fsevents",
     "_config.stellar.yml",
     "_config - 副本.yml",
     "source/_posts/the first post in obsidian.md",
@@ -189,7 +190,6 @@
     "public/js/plugins/timeline.js",
     "public/js/plugins/sites.js",
     "public/js/plugins/memos.js",
-    "public/js/plugins/linkcard.js",
     "source/_posts/hello-world.md",
     "source/_obsidian/img.png",
     "source/_obsidian/Post Template.md",
