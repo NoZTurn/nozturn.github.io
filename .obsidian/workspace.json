@@ -177,6 +177,7 @@
   },
   "active": "63c277adff0d53da",
   "lastOpenFiles": [
+    "_config.stellar.yml~",
     "node_modules/fsevents",
     "_config.stellar.yml",
     "_config - 副本.yml",
@@ -189,7 +190,6 @@
     "public/js/plugins/weibo.js",
     "public/js/plugins/timeline.js",
     "public/js/plugins/sites.js",
-    "public/js/plugins/memos.js",
     "source/_posts/hello-world.md",
     "source/_obsidian/img.png",
     "source/_obsidian/Post Template.md",
