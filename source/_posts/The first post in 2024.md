@@ -4,3 +4,4 @@ date: 2024-01-01 10:19:18
 tags:
 ---
 an online post
+可以在线更新了，不用本地运行hexo clean && hexo g && hexo d了
