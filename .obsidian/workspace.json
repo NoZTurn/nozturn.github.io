@@ -11,8 +11,13 @@
             "id": "5f10914af64480bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/几个热门、常用的插件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/几个热门、常用的插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/几个热门、常用的插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/几个热门、常用的插件.md"
+              }
             }
           },
           {
@@ -155,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,22 +189,22 @@
       "excalidraw-cn:Create New Excalidraw File": false
     }
   },
-  "active": "0d6a024b874d415b",
+  "active": "5f10914af64480bc",
   "lastOpenFiles": [
+    "source/_posts/The first post in obsidian.md",
+    "source/_posts/The first post in 2024.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/This is a post from iphone.md",
+    "source/_posts/几个热门、常用的插件.md",
     "source/_posts/note/delete.md",
     "source/_posts/note/2024-01-08.md",
     "source/_obsidian/Post Template.md~",
-    "source/_posts/hello-world.md",
-    "source/_posts/The first post in 2024.md",
-    "source/_posts/This is a post from iphone.md",
     "Excalidraw/Drawing 2024-01-08 20.21.33.excalidraw.md",
     "Excalidraw",
-    "source/_posts/几个热门、常用的插件.md",
     "node_modules/highlight.js/CHANGES.md",
     "source/_posts/note",
     "source/_posts/新建文件夹",
     "2024-01-08.md",
-    "source/_posts/The first post in obsidian.md",
     "node_modules/hexo-theme-stellar/node_modules/stylus/Readme.md",
     "_config.stellar.yml~",
     "node_modules/fsevents",
