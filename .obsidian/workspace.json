@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "620e837bff47fcb0",
+        "id": "151e6379d3e6bd52",
         "type": "tabs",
         "children": [
           {
-            "id": "f79b53dba86a35da",
+            "id": "5f10914af64480bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,8 +180,9 @@
       "excalidraw-cn:Create New Excalidraw File": false
     }
   },
-  "active": "f79b53dba86a35da",
+  "active": "0d6a024b874d415b",
   "lastOpenFiles": [
+    "source/_posts/note/delete.md",
     "source/_posts/note/2024-01-08.md",
     "source/_obsidian/Post Template.md~",
     "source/_posts/hello-world.md",
