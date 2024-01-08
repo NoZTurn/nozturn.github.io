@@ -16,12 +16,20 @@
             }
           },
           {
-            "id": "5c0b01f547e04fc7",
+            "id": "5b45e4631b0ebdad",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e53886ea4da171d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/几个热门、常用的插件.md",
+                "file": "source/_posts/note/2024-01-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +37,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/几个热门、常用的插件.md",
+                "file": "source/_posts/note/2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/几个热门、常用的插件.md",
+                "file": "source/_posts/note/2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/几个热门、常用的插件.md"
+                "file": "source/_posts/note/2024-01-08.md"
               }
             }
           },
@@ -173,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -195,16 +203,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5c0b01f547e04fc7",
+  "active": "e53886ea4da171d9",
   "lastOpenFiles": [
-    "source/_posts/The first post in 2024.md",
-    "source/_posts/note/2024-01-08 memo.md",
     "source/_posts/hello-world.md",
+    "source/_posts/note/2024-01-08.md",
+    "source/_posts/note/2024-01-08.md",
+    "source/_posts/几个热门、常用的插件.md",
+    "source/_posts/The first post in 2024.md",
     "node_modules/highlight.js/CHANGES.md",
     "source/_posts/note",
     "source/_posts/新建文件夹",
     "2024-01-08.md",
-    "source/_posts/几个热门、常用的插件.md",
     "source/_posts/This is a post from iphone.md",
     "source/_posts/The first post in obsidian.md",
     "node_modules/hexo-theme-stellar/node_modules/stylus/Readme.md",
