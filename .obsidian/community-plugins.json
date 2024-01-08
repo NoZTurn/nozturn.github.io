@@ -11,5 +11,6 @@
   "obsidian-tasks-plugin",
   "obsidian-memos",
   "obsidian-excalidraw-plugin",
-  "obsidian-math-plus"
+  "obsidian-math-plus",
+  "obsidian-linter"
 ]
