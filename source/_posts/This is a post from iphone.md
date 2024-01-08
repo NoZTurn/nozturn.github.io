@@ -1,7 +1,7 @@
 ---
 title: This is a post from iphone
 date: 2024-01-08 18:06:45
-tags:
+tags: []
 ---
 终于把苹果手机上的obsidian、以及使用obsidian git插件和GitHub同步也弄好了，你看到的这条信息经过了这样的过程：
 1. 在苹果手机上编辑

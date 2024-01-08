@@ -5,5 +5,8 @@
   "file-tree-alternative",
   "dataview",
   "obsidian-image-auto-upload-plugin",
-  "editing-toolbar"
+  "editing-toolbar",
+  "table-editor-obsidian",
+  "periodic-notes",
+  "obsidian-tasks-plugin"
 ]
