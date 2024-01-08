@@ -1,5 +1,5 @@
 ---
-title: this is a post from iphone
+title: This is a post from iphone
 date: 2024-01-08 18:06:45
 tags:
 ---
