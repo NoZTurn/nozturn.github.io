@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/hello-world.md",
+                "file": "source/_posts/this is a post from iphone.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ed561e6830a8379",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/hello-world.md",
+                "file": "source/_posts/this is a post from iphone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/hello-world.md",
+                "file": "source/_posts/this is a post from iphone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/hello-world.md"
+                "file": "source/_posts/this is a post from iphone.md"
               }
             }
           },
@@ -177,11 +178,11 @@
   },
   "active": "295f45ea1becd306",
   "lastOpenFiles": [
-    "source/_posts/The first post in 2024.md",
-    "node_modules/hexo-theme-stellar/node_modules/stylus/Readme.md",
-    "source/_posts/hello-world.md",
-    "source/_posts/this is a post from iphone.md",
     "source/_posts/The first post in obsidian.md",
+    "source/_posts/The first post in 2024.md",
+    "source/_posts/hello-world.md",
+    "node_modules/hexo-theme-stellar/node_modules/stylus/Readme.md",
+    "source/_posts/this is a post from iphone.md",
     "_config.stellar.yml~",
     "node_modules/fsevents",
     "_config.stellar.yml",
