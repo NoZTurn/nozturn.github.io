@@ -190,8 +190,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bfae1a6132370339",
+  "active": "63c277adff0d53da",
   "lastOpenFiles": [
+    "_resources/17.1.2024/我的人生哲学（三十六岁版）",
+    "_resources/17.1.2024",
     "source/_posts/The first post in 2024.md",
     "source/_posts/The first post in obsidian.md",
     "source/_posts/This is a post from iphone.md",
@@ -223,7 +225,6 @@
     "2024-01-08.md",
     "node_modules/hexo-theme-stellar/node_modules/stylus/Readme.md",
     "_config.stellar.yml~",
-    "node_modules/fsevents",
     "source/_obsidian/Post Template.md",
     "source/_posts/hello-world b test.md",
     "source/_posts/hello-world c test.md",
