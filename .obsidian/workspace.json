@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "source/_posts/我的人生哲学（三十六岁版）.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -186,11 +186,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "excalidraw-cn:Create New Excalidraw File": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "63c277adff0d53da",
+  "active": "5f10914af64480bc",
   "lastOpenFiles": [
+    "762bfdeb67e469157464384d45ad3ef6_MD5.png",
+    "76abfe193e0860eb15346508b30655a9_MD5.png",
+    "ab6398dfb6cd9317d5abfa0d9542d0e6_MD5.png",
+    "98cc04286991e9798a1c0be84103daad_MD5.png",
+    "959867dd250e4ac189567796dec13adf_MD5.png",
+    "3531ed87be6483cca03f632652080f41_MD5.png",
+    "9d70ec813ea80445b1017dc380bce890_MD5.png",
+    "646856b860ecc9ab9ba9a3c5560a7e57_MD5.jpg",
     "source/_posts/几个热门、常用的插件.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/The first post in obsidian.md",
