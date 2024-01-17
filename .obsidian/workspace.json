@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我的人生哲学（三十六岁版）.md",
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的人生哲学（三十六岁版）.md",
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我的人生哲学（三十六岁版）.md",
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的人生哲学（三十六岁版）.md"
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5f10914af64480bc",
+  "active": "948cea32a63a21a0",
   "lastOpenFiles": [
     "source/_posts/几个热门、常用的插件.md",
-    "我的人生哲学（三十六岁版）.md",
+    "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/The first post in obsidian.md",
     "source/_posts/The first post in 2024.md",
     "source/_posts/hello-world.md",
