@@ -16,7 +16,7 @@
                 "file": "source/_posts/我的人生哲学（三十六岁版）.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "948cea32a63a21a0",
+  "active": "5f10914af64480bc",
   "lastOpenFiles": [
     "source/_posts/几个热门、常用的插件.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
