@@ -192,6 +192,8 @@
   },
   "active": "5f10914af64480bc",
   "lastOpenFiles": [
+    "_resources",
+    "新建文件夹",
     "762bfdeb67e469157464384d45ad3ef6_MD5.png",
     "76abfe193e0860eb15346508b30655a9_MD5.png",
     "ab6398dfb6cd9317d5abfa0d9542d0e6_MD5.png",
@@ -221,7 +223,6 @@
     "_config.stellar.yml",
     "_config - 副本.yml",
     "db.json",
-    "public/CNAME",
     "source/_obsidian/img.png",
     "source/_obsidian/Post Template.md",
     "source/_posts/hello-world b test.md",
