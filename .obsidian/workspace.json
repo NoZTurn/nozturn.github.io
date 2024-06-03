@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9050636bdd1ed4a0",
+        "id": "d05a3c13245f4bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "896654eb356f502d",
+            "id": "d5aa30513dbaaf16",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -69,12 +69,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ed561e6830a8379",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/note/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/note/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/note/2024-06-03.md"
+              }
             }
           },
           {
@@ -181,7 +185,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "896654eb356f502d",
+  "active": "948cea32a63a21a0",
   "lastOpenFiles": [
     "source/_posts/note/2024-06-03.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
