@@ -11,7 +11,7 @@
             "id": "d5aa30513dbaaf16",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "memos_view",
               "state": {}
             }
           }
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/note/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/note/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/note/2024-06-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +181,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "948cea32a63a21a0",
+  "active": "d5aa30513dbaaf16",
   "lastOpenFiles": [
     "source/_posts/note/2024-06-03.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
