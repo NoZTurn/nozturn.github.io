@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "d05a3c13245f4bc1",
+        "id": "20b2d628f0513fde",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aa30513dbaaf16",
+            "id": "4353497e030c627f",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "ca4f0998754c3668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md"
+              }
             }
           },
           {
@@ -177,11 +195,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "excalidraw-cn:Create New Excalidraw File": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d5aa30513dbaaf16",
+  "active": "ca4f0998754c3668",
   "lastOpenFiles": [
     "source/_posts/note/2024-06-03.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
