@@ -11,10 +11,24 @@
             "id": "a9fdcf93e76be843",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/我的人生哲学（三十六岁版）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "我的人生哲学（三十六岁版）"
             }
           }
         ]
@@ -217,6 +231,11 @@
   },
   "active": "a9fdcf93e76be843",
   "lastOpenFiles": [
+    "source/_posts/几个热门、常用的插件.md",
+    "source/_posts/This is a post from iphone.md",
+    "source/_posts/The first post in obsidian.md",
+    "source/_posts/The first post in 2024.md",
+    "source/_posts/hello-world.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/note/2024-06-03.md",
     "_resources/18.1.2024/我的人生哲学（三十六岁版）/762bfdeb67e469157464384d45ad3ef6_MD5.png",
@@ -233,15 +252,10 @@
     "_resources/17.1.2024/我的人生哲学（三十六岁版）/646856b860ecc9ab9ba9a3c5560a7e57_MD5.jpg",
     "_resources/17.1.2024/我的人生哲学（三十六岁版）",
     "_resources/17.1.2024",
-    "source/_posts/The first post in 2024.md",
-    "source/_posts/The first post in obsidian.md",
-    "source/_posts/This is a post from iphone.md",
-    "source/_posts/几个热门、常用的插件.md",
     "_resources/202401",
     "_resources/新建文件夹",
     "_resources",
     "新建文件夹",
-    "source/_posts/hello-world.md",
     "source/_posts/note/delete.md",
     "source/_posts/note/2024-01-08.md",
     "source/_obsidian/Post Template.md~",
