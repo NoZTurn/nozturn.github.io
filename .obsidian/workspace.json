@@ -215,12 +215,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "63c277adff0d53da",
+  "active": "66f01616991df74e",
   "lastOpenFiles": [
     "db.json",
-    "public/css/main.css",
-    "public/tags/心安/index.html",
-    "public/tags/心安",
     "public/js/search/local-search.js",
     "public/js/plugins/weibo.js",
     "public/js/plugins/timeline.js",
@@ -228,6 +225,9 @@
     "public/js/plugins/memos.js",
     "public/js/plugins/linkcard.js",
     "public/js/plugins/ghinfo.js",
+    "public/js/plugins/friends.js",
+    "public/js/plugins/fcircle.js",
+    "public/js/plugins/copycode.js",
     "source/_posts/The first post in 2024.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/几个热门、常用的插件.md",
