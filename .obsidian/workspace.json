@@ -226,7 +226,8 @@
       "excalidraw-cn:Create New Excalidraw File": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "29f9ddf35fbb5ae2",
