@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d43e3643214b62e",
+        "id": "8affaa11cc03acbc",
         "type": "tabs",
         "children": [
           {
-            "id": "91fd545f8dc5f299",
+            "id": "29f9ddf35fbb5ae2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -215,19 +215,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "66f01616991df74e",
+  "active": "29f9ddf35fbb5ae2",
   "lastOpenFiles": [
     "db.json",
-    "public/js/search/local-search.js",
-    "public/js/plugins/weibo.js",
-    "public/js/plugins/timeline.js",
-    "public/js/plugins/sites.js",
-    "public/js/plugins/memos.js",
-    "public/js/plugins/linkcard.js",
-    "public/js/plugins/ghinfo.js",
-    "public/js/plugins/friends.js",
-    "public/js/plugins/fcircle.js",
-    "public/js/plugins/copycode.js",
+    "public/2024/01/08/几个热门、常用的插件/index.html",
+    "public/2024/01/08/This is a post from iphone/index.html",
+    "public/2024/01/17/我的人生哲学（三十六岁版）/index.html",
+    "public/2024/01/01/The first post in 2024/index.html",
+    "public/2024/01/08/几个热门、常用的插件",
+    "public/2024/01/08/This is a post from iphone",
+    "public/2024/01/17/我的人生哲学（三十六岁版）",
+    "public/2024/01/01/The first post in 2024",
+    "public/2024/01/08",
+    "public/2024/01/17",
     "source/_posts/The first post in 2024.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/几个热门、常用的插件.md",
