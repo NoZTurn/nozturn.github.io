@@ -215,8 +215,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "91fd545f8dc5f299",
+  "active": "63c277adff0d53da",
   "lastOpenFiles": [
+    "db.json",
+    "public/css/main.css",
+    "public/tags/心安/index.html",
+    "public/tags/心安",
+    "public/js/search/local-search.js",
+    "public/js/plugins/weibo.js",
+    "public/js/plugins/timeline.js",
+    "public/js/plugins/sites.js",
+    "public/js/plugins/memos.js",
+    "public/js/plugins/linkcard.js",
+    "public/js/plugins/ghinfo.js",
     "source/_posts/The first post in 2024.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/几个热门、常用的插件.md",
@@ -231,22 +242,12 @@
     "_resources/18.1.2024/我的人生哲学（三十六岁版）/3531ed87be6483cca03f632652080f41_MD5.png",
     "_resources/18.1.2024/我的人生哲学（三十六岁版）/76abfe193e0860eb15346508b30655a9_MD5.png",
     "_resources/18.1.2024/我的人生哲学（三十六岁版）/646856b860ecc9ab9ba9a3c5560a7e57_MD5.jpg",
-    "_resources/18.1.2024/我的人生哲学（三十六岁版）",
-    "_resources/18.1.2024",
     "_resources/17.1.2024/我的人生哲学（三十六岁版）/ab6398dfb6cd9317d5abfa0d9542d0e6_MD5.png",
     "_resources/17.1.2024/我的人生哲学（三十六岁版）/959867dd250e4ac189567796dec13adf_MD5.png",
     "_resources/17.1.2024/我的人生哲学（三十六岁版）/646856b860ecc9ab9ba9a3c5560a7e57_MD5.jpg",
-    "_resources/17.1.2024/我的人生哲学（三十六岁版）",
-    "_resources/17.1.2024",
-    "_resources/202401",
-    "_resources/新建文件夹",
-    "_resources",
-    "新建文件夹",
     "source/_posts/note/delete.md",
     "source/_posts/note/2024-01-08.md",
-    "source/_obsidian/Post Template.md~",
     "Excalidraw/Drawing 2024-01-08 20.21.33.excalidraw.md",
-    "Excalidraw",
     "node_modules/highlight.js/CHANGES.md",
     "2024-01-08.md",
     "node_modules/hexo-theme-stellar/node_modules/stylus/Readme.md",
@@ -261,7 +262,6 @@
     "node_modules/hexo-auto-category/node_modules/hexo-util/README.md",
     "obsidian git and picgo.md",
     "2023-12-21.md",
-    "2023-10-29.md",
-    "README.md"
+    "2023-10-29.md"
   ]
 }
