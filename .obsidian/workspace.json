@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/The first post in 2024.md",
+                "file": "source/_posts/A post in 2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The first post in 2024"
+              "title": "A post in 2025"
             }
           }
         ]
@@ -231,8 +231,8 @@
   },
   "active": "29f9ddf35fbb5ae2",
   "lastOpenFiles": [
-    "source/_posts/A post in 2025.md",
     "source/_posts/The first post in 2024.md",
+    "source/_posts/A post in 2025.md",
     "source/_posts/The first post in obsidian.md",
     "db.json",
     "public/2024/01/08/几个热门、常用的插件/index.html",
