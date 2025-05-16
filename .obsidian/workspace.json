@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3c4ff8450e40a529",
+        "id": "e885b74082289d44",
         "type": "tabs",
         "children": [
           {
-            "id": "a9fdcf93e76be843",
+            "id": "551faa2164ac09b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "source/_posts/The first post in 2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "The first post in 2024"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -229,13 +218,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a9fdcf93e76be843",
+  "active": "551faa2164ac09b4",
   "lastOpenFiles": [
+    "source/_posts/The first post in 2024.md",
     "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/几个热门、常用的插件.md",
     "source/_posts/This is a post from iphone.md",
     "source/_posts/The first post in obsidian.md",
-    "source/_posts/The first post in 2024.md",
     "source/_posts/hello-world.md",
     "source/_posts/note/2024-06-03.md",
     "_resources/18.1.2024/我的人生哲学（三十六岁版）/762bfdeb67e469157464384d45ad3ef6_MD5.png",
