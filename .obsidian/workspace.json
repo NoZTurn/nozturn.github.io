@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "66f01616991df74e",
+            "id": "189e8fc300508442",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -224,19 +224,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "excalidraw-cn:Create New Excalidraw File": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "29f9ddf35fbb5ae2",
   "lastOpenFiles": [
+    "scaffolds/post.md",
+    "source/_posts/A post in 2025.md",
     "source/_posts/hello-world.md",
     "source/_posts/The first post in 2024.md",
     "source/_posts/The first post in obsidian.md",
     "source/_posts/This is a post from iphone.md",
-    "source/_posts/A post in 2025.md",
     "db.json",
     "public/2024/01/08/几个热门、常用的插件/index.html",
     "public/2024/01/08/This is a post from iphone/index.html",
@@ -276,7 +276,6 @@
     "node_modules/hexo-auto-category/node_modules/argparse/CHANGELOG.md",
     "node_modules/hexo-auto-category/node_modules/hexo-util/README.md",
     "obsidian git and picgo.md",
-    "2023-12-21.md",
-    "2023-10-29.md"
+    "2023-12-21.md"
   ]
 }
