@@ -226,13 +226,15 @@
       "excalidraw-cn:Create New Excalidraw File": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-memos:Thino": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "29f9ddf35fbb5ae2",
+  "active": "63c277adff0d53da",
   "lastOpenFiles": [
-    "scaffolds/post.md",
+    "scaffolds/page.md",
     "source/_posts/A post in 2025.md",
+    "scaffolds/post.md",
     "source/_posts/hello-world.md",
     "source/_posts/The first post in 2024.md",
     "source/_posts/The first post in obsidian.md",
@@ -275,7 +277,6 @@
     "node_modules/hexo-auto-category/node_modules/sprintf-js/README.md",
     "node_modules/hexo-auto-category/node_modules/argparse/CHANGELOG.md",
     "node_modules/hexo-auto-category/node_modules/hexo-util/README.md",
-    "obsidian git and picgo.md",
-    "2023-12-21.md"
+    "obsidian git and picgo.md"
   ]
 }
