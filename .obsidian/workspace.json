@@ -16,21 +16,8 @@
               "icon": "Memos",
               "title": "Thino"
             }
-          },
-          {
-            "id": "06d474d5e5fdd1bc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-14 16.23.13.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-14 16.23.13.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -229,12 +217,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "06d474d5e5fdd1bc",
+  "active": "189e8fc300508442",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-08 20.21.33.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-14 16.23.13.excalidraw.md",
-    "source/_posts/我的人生哲学（三十六岁版）.md",
     "scaffolds/post.md",
+    "Excalidraw/Drawing 2025-07-14 16.23.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 20.21.33.excalidraw.md",
+    "source/_posts/我的人生哲学（三十六岁版）.md",
     "source/_posts/A post in 2025.md",
     "scaffolds/page.md",
     "source/_posts/hello-world.md",
